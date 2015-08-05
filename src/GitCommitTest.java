@@ -5,9 +5,6 @@ public class GitCommitTest {
 		// TODO Auto-generated method stub
 System.out.println("\n");
 System.out.println("\nsafjj");
-System.out.println("\n 098");
-
-System.out.println("\123");
 System.out.println("\123");
 	}
 
