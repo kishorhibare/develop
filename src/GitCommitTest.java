@@ -6,6 +6,9 @@ public class GitCommitTest {
 System.out.println("\n");
 System.out.println("\nsafjj");
 System.out.println("\123");
+
+System.out.println("\56");
+
 	}
 
 }
