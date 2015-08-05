@@ -8,6 +8,8 @@ System.out.println("\nsafjj");
 System.out.println("\123");
 
 System.out.println("\56");
+System.out.println("\n 56");
+
 
 	}
 
