@@ -41,7 +41,8 @@ public class ExtractValuesFromPacket {
 				buildPacket.append(etx);
 				
 				System.out.println("\n builded packet -->"+buildPacket.toString());
-				
+				//comment
+				//11st comment
 	}
 
 }
