@@ -37,7 +37,7 @@ public class TestClas {
 		System.out.println("\n npi Pharmacy id***"+str.substring(startPos+23,startPos+23+15));
 		//System.out.println("\n dos@@"+str.substring(0, 58));
 		
-
+                System.out.println("");
 	}
 
 }
